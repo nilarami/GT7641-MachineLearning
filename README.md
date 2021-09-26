@@ -56,5 +56,13 @@ Age(years)
 Class Variable(0, 1)
 
 
+Credits: 
+
+I was inspired by the code and format written in this repo: 
+https://github.com/kylewest520/CS-7641---Machine-Learning 
+
+In addition, I used algorithms provided by sklearn documentation which is credited below. 
+
+
 
 
